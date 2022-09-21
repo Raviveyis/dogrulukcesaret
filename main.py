@@ -28,8 +28,8 @@ K_G = Client(
 
 # Start Buttonu İcin Def Oluşturalım :)
 def button():
-	BUTTON=[[InlineKeyboardButton(text="??????? Sahibim ",url="t.me/XTQ_BAKAVOY")]]
-	BUTTON+=[[InlineKeyboardButton(text="?? Open Source ??",url="https://github.com/XTQ067/TgEglenceBot")]]
+	BUTTON=[[InlineKeyboardButton(text="??????? Sahibim ",url="t.me/BenimKiller")]]
+	BUTTON+=[[InlineKeyboardButton(text="?? Open Source ??",url="https://github.com/Raviveyis/dogrulukcesaret")]]
 	return InlineKeyboardMarkup(BUTTON)
 
 # İstifadəçi Start Əmrini İşlədəndə Salam'lamlayaq :)
@@ -37,7 +37,7 @@ def button():
 async def _(client, message):
 	user = message.from_user # İstifadəçinin Kimliyini Alağ
 
-	await message.reply_text(text="**Merhaba {}!**\n\n__Ben Pyrogram Api İle Yazılmış Əyləncə Botuyam :)__\n\n**Repom =>** [Open Source](https://github.com/XTQ067/TgEglenceBott)\nDoğruluk mu? Cesaret mi? Oyun Komutu => /dc".format(
+	await message.reply_text(text="**Merhaba {}!**\n\n__Ben Pyrogram Api İle Yazılmış Əyləncə Botuyam :)__\n\n**Repom =>** [Open Source](https://github.com/Raviveyis/dogrulukcesaret)\nDoğruluk mu? Cesaret mi? Oyun Komutu => /dc".format(
 		user.mention, # Kullanıcı'nın Adı
 		),
 	disable_web_page_preview=True, # Etiketin Önizlemesi Olmaması İcin Kullanıyoruz
