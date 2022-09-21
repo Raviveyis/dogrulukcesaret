@@ -2,11 +2,11 @@
 ----
 
 <div align="center">
-  <img src="https://github.com/XTQ067/TgEglenceBot/raw/master/logo.png" width="300" height="300">
+  <img src="https://github.com/Raviveyis/dogrulukcesaret/raw/master/logo.png" width="300" height="300">
   <h1>Telegram Doğruluq mu? Cəsaret mi? Oyun Botu</h1>
 </div>
 <p align="center">
-        <a href="https://telegram.dog/TgEglence_Bot">~Bot~</a>
+        <a href="https://telegram.dog/Vanessagame_bot">~Bot~</a>
 </p>
 
 ----
@@ -16,7 +16,7 @@
 
 # Heroku'da Clonlamak
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XTQ067/TgEglenceBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Raviveyis/dogrulukcesaret)
 
 ## Alanları Doldurma
 * ``BOT_TOKEN``: Botunuzun tokeni t.me/botfather alınız!
@@ -41,12 +41,12 @@ async def _(client, message):
 ```
 
 # İletişim
-Şikayət, kömək , təklif üçün mənim ilə telegram'dan əlaqə qur [@XTQ_BAKAVOY](https://t.me/BotssSupport)
+Şikayət, kömək , təklif üçün mənim ilə telegram'dan əlaqə qur [@BenimKiller](https://t.me/lovelesslifee)
 
 
 # Credit
 Thanks for;
 
-[SAHİBİM](https://github.com/XTQ067)
+[SAHİBİM](https://github.RaviVeyis)
 
 [Dan](https://telegram.dog/haskell) [Pyrogram Library](https://github.com/pyrogram/pyrogram) Kütüphanesi için
