@@ -1,7 +1,7 @@
 {
   "name": "VANESSA GAME BOT",
   "description": "Pyrogram İlə Yazılmış Bir Əyləncə botu",
-  "repository": "https://github.com/Raviveyis/dogrulukcesaret.git",
+  "repository": https://github.com/Raviveyis/dogrulukcesaret.git",
   "logo": "https://te.legra.ph/file/6aff02bfb041e10af0e7e.jpg",
   "keywords": ["telegram", "game", "pyrogram","telegram bot"],
   "env": {
